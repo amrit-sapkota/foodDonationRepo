@@ -86,7 +86,7 @@
     <!-- Want To work -->
     <section class="wantToWork-area">
     <div class="container">
-        <div class="wants-wrapper w-padding2 section-bg" style="background-image: url('{{url('user/assets/img/gallery/section_bg01.png')}}'); background-color: #d580ff !important;">
+        <div class="wants-wrapper w-padding2 section-bg" style="background-image: url('{{url('user/assets/img/gallery/section_bg01.jpeg')}}'); background-color: #d580ff !important;">
             <div class="row align-items-center justify-content-between">
                 <div class="col-xl-5 col-lg-9 col-md-8">
                     <div class="wantToWork-caption wantToWork-caption2">

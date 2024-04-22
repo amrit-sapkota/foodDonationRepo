@@ -14,9 +14,9 @@
 								
 								<div class="card-header">
 									<h5 class="card-title mb-0">
-										<h4 class="text-secondary">Manage Slum Areas<a href="{{ url('admin/addslumarea') }}" class="btn btn-primary float-end">New Slum Area+</a></h4>
+										<h4 class="text-secondary">Manage Areas<a href="{{ url('admin/addslumarea') }}" class="btn btn-primary float-end">New Area+</a></h4>
 										<div class="d-grid gap-2 d-md-flex justify-content-md-end">
-										{{-- <button type="button" class="btn btn-primary" onclick="window.location.href='/admin/addslumarea'">New Slum Area +</button> --}}
+										{{-- <button type="button" class="btn btn-primary" onclick="window.location.href='/admin/addslumarea'">New Area +</button> --}}
 										</div>
 									</h5>
 								</div>

@@ -26,9 +26,9 @@
 									  <option value="{{ $user->id }}">{{$user->name}}</option>
 								  @endforeach
 							  </select>
-								Slum Area
+								Area
 								<select name="slum_area_id" class="form-select mb-3">
-          							<option selected value="">Choose a Slum Area...</option>
+          							<option selected value="">Area...</option>
           							{{-- <option value="1">Shastri Nagar</option>
           							<option value="2">Raiyadhar</option>
           							<option value="3">Rajiv Nagar</option>

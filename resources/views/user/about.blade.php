@@ -20,7 +20,7 @@
                 <a href="/about" class="btn">Learn More About Us</a>
             </div>
             <div class="about-back-img ">
-                            <img src="{{url('user/assets/img/gallery/new about.jpg')}}" height="610" alt="">
+                            <img src="{{url('user/assets/img/gallery/new about.png')}}" height="610" alt="">
                         </div>
         </div>
     </div>

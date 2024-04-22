@@ -14,7 +14,7 @@
 
 	<link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
-	<title>Admin - Food Wastage Reduction | Laravel Project</title>
+	<title>Admin - Hunger Free Mission</title>
 
 	<link href="{{url('adminpanel/css/app.css')}}" rel="stylesheet">
 	
@@ -132,8 +132,8 @@
 	</style>
 </head>
 
-<body>
-	<div class="wrapper">
+<body >
+	<div class="wrapper" >
 		<nav id="sidebar" class="sidebar js-sidebar">
 			<div class="sidebar-content js-simplebar">
 				<a class="sidebar-brand mb-10" href="/admin/">
@@ -163,7 +163,7 @@
 					</li>
 					<li class="sidebar-item">
 						<a class="sidebar-link" href="/admin/slumareas">
-              <i class="align-middle" data-feather="globe"></i> <span class="align-middle">Slum Areas</span>
+              <i class="align-middle" data-feather="globe"></i> <span class="align-middle">Areas</span>
             </a>
 					</li>
 					<li class="sidebar-item">

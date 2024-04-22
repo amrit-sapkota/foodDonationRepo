@@ -23,7 +23,7 @@
 											<th class="d-none d-xl-table-cell">Food Image</th>
 											<th class="d-none d-xl-table-cell">Food Quantity</th>
 											<th>Donor</th>
-											<th class="d-none d-md-table-cell">Slum Area</th>
+											<th class="d-none d-md-table-cell">Area</th>
 											<th>Status</th>
 											<th>Action</th>
 										</tr>

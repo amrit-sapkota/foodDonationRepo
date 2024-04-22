@@ -3,7 +3,7 @@
 					<div class="row text-muted">
 						<div class="col-12">
 							<p class="mb-0">
-								<a class="text-muted" href="#" target="_blank"><strong>Copyright</strong></a> &copy <script>document.write(new Date().getFullYear());</script> AdminKit | Food Wastage Reduction Laravel Project
+								<a class="text-muted" href="#" target="_blank"><strong>Copyright</strong></a> &copy <script>document.write(new Date().getFullYear());</script> Hunger Free Mission
 							</p>
 						</div>
 					</div>
