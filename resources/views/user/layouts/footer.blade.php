@@ -9,7 +9,7 @@
                             <div class="single-footer-caption mb-30">
                                 <div class="footer-tittle">
                                     <div class="footer-logo mb-20">
-                                        <a href="/"><img src="{{url('user/assets/img/logo/logo2_footer.png')}}" alt=""></a>
+                                        <a href="/"><h1 class="text-white">HFM</h1></a>
                                     </div>
                                 </div>
                             </div>
@@ -21,10 +21,10 @@
                                     <h4>Contact Info</h4>
                                     <ul>
                                         <li>
-                                            <p>Address: A-202, Panchnath Complex, Opp. Saint Mary's School, Kalawad Road, Rajkot - 360005</p>
+                                            <p>Pokhara, Nepal</p>
                                         </li>
-                                        <li><a href="#">Phone: +91 635454 6061</a></li>
-                                        <li><a href="#">Email: bhavyabpopat7777@gmail.com</a></li>
+                                        <li><a href="#">Phone: +77 9825173216</a></li>
+                                        <li><a href="#">Email: stanamrit@gmail.com</a></li>
                                     </ul>
                                 </div>
 
@@ -33,7 +33,7 @@
                         <div class="col-xl-3 col-lg-3 col-md-4 col-sm-5">
                             <div class="single-footer-caption mb-50">
                                 <div class="footer-tittle">
-                                    <h4>Important Links</h4>
+                                    <h4>Quick Links</h4>
                                     <ul>
                                     <li><a href="/">Home</a></li>
                                         <li><a href="/donate">Donate</a></li>
@@ -83,15 +83,15 @@
                             <div class="col-xl-10 col-lg-9 ">
                                 <div class="footer-copy-right">
                                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy; <script>document.write(new Date().getFullYear());</script> | Made in Laravel with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://github.com/bhavyajustchill" target="_blank">BhavyaJustChill</a>
+  Copyright &copy; <script>document.write(new Date().getFullYear());</script> 
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                                 </div>
                             </div>
                             <div class="col-xl-2 col-lg-3">
                                 <div class="footer-social f-right">
-                                    <a href="https://twitter.com/BhavyaJustChill"><i class="fab fa-twitter"></i></a>
-                                    <a  href="https://www.facebook.com/bhavya.popat.98/"><i class="fab fa-facebook-f"></i></a>
-                                    <a href="https://github.com/bhavyajustchill"><i class="fas fa-globe"></i></a>
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a  href=""><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fas fa-globe"></i></a>
                                     
                                 </div>
                             </div>

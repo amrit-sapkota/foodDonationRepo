@@ -15,7 +15,7 @@
 									@method('PUT')
 								<div class="text-center">
 									<h3 class="text-secondary">Food Image</h3>
-									<img src="{{ asset('uploads/donations/'.$donation->img) }}" alt="Bhavya Popat" class="img-fluid rounded" width="300" />
+									<img src="{{ asset('uploads/donations/'.$donation->img) }}" alt="a" class="img-fluid rounded" width="300" />
 								</div>
 								Update Image
 								<input name="img" type="file" class="form-control"/><br>

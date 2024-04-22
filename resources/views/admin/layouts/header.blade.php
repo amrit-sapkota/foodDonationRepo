@@ -139,7 +139,8 @@
 				<a class="sidebar-brand mb-10" href="/admin/">
           <span class="align-middle">
 			<!-- AdminKit -->
-			<img src="{{url('user/assets/img/logo/logo2_footer.png')}}" alt="AdminKit" />
+			<!-- <img src="{{url('user/assets/img/logo/logo2_footer.png')}}" alt="AdminKit" /> -->
+      <h1 class="text-white align-middle">Admin Panel</h1>
 		</span>
         </a>
 				<ul class="sidebar-nav">
@@ -197,7 +198,7 @@
               </a>
 			  @if(Auth::guard('admin')->check())
 							<a class="nav-link dropdown-toggle d-none d-sm-inline-block" href="#" data-bs-toggle="dropdown">
-                <img src="{{url('adminpanel/img/avatars/avatar.jpg')}}" class="avatar img-fluid rounded me-1" alt="Bhavya Popat" /> <span class="text-dark">Bhavya Popat</span>
+                <span class="text-dark">Admin</span>
               </a>
 
 							<div class="dropdown-menu dropdown-menu-end">

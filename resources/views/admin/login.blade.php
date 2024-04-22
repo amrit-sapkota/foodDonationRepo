@@ -138,7 +138,7 @@
 					<div class="d-table-cell align-middle">
 
 						<div class="text-center mt-4">
-							<h1 class="h2">Welcome back, Bhavya</h1>
+							<h1 class="h2">Welcome back, Admin</h1>
 							<p class="lead">
 								Sign in to your account to continue
 							</p>
@@ -153,9 +153,6 @@
 						<div class="card">
 							<div class="card-body">
 								<div class="m-sm-4">
-									<div class="text-center">
-										<img src="{{url('adminpanel/img/avatars/avatar.jpg')}}" alt="Bhavya Popat" class="img-fluid rounded-circle" width="132" height="132" />
-									</div>
 									<form method="POST" action="{{ route('admin.auth') }}">
                                         @csrf
 										<div class="mb-3">

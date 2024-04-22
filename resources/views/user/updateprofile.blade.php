@@ -33,10 +33,10 @@
   		align-items: center;
 	}
 	a{
-		color:#09cc7f;
+		color:#d580ff;
 	}
 	a:hover{
-		color:#09cc7f;
+		color:;
 		text-decoration:underline;
 	}
 
